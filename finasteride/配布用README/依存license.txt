@@ -1,0 +1,60 @@
+あいう
+
+　依存library
+###
+
+　elm.json-direct
+***
+
+elm/browser: BSD3
+elm/core: BSD3
+elm/file: BSD3
+elm/html: BSD3
+elm/json: BSD3
+elm/url: BSD3
+elm-community/basics-extra: MIT
+elm-community/list-extra: MIT
+elm-community/maybe-extra: MIT
+elm-community/result-extra: MIT
+mdgriffith/elm-ui: BSD3
+rtfeldman/elm-css: BSD3
+ryan-haskell/elm-spa: BSD3
+
+
+　elm.json-indirect
+***
+
+elm/bytes: BSD3
+elm/time: BSD3
+elm/virtual-dom: BSD3
+robinheghan/murmur3: MIT
+rtfeldman/elm-hex: BSD3
+
+
+　elm自体
+***
+
+elm/compiler: BSD3
+
+　
+　google icon
+***
+
+基本: SIL オープン フォント ライセンス
+一部のフォント:
+  Apache ライセンス
+  Ubuntu Font License
+　
+
+　rootディレクトリ
+***
+
+favicon.icon
+　パブリックドメイン
+
+
+　asset
+***
+
+　パブリックドメイン
+
