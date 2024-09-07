@@ -1,6 +1,10 @@
 
-
+// service worker
+window.addEventListener("load", () => {
+  navigator.serviceWorker.register("./sw/sw.js");
+})
 // lib
+
 
 
 // init
