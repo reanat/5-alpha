@@ -1,5 +1,13 @@
-var CACHE_NAME = "finasteride_app_cache";
-var cached = ['../index.html', '../main.js', '../style.css', '../dist/elm.js', '../asset/mainImage.jpg'];
+const CACHE_NAME = "finasteride_app_cache";
+const ROOT = "/public/finasteride"
+const cached = [
+  `${ROOT}/index.html`,
+  `${ROOT}/main.js`,
+  `${ROOT}/style.css`,
+  `${ROOT}/dist/elm.js`,
+  `${ROOT}/asset/mainImage.jpg`,
+  `https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined`
+];
 
 // install
 self.addEventListener('install', function(event) {

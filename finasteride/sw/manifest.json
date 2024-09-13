@@ -3,7 +3,7 @@
   "short_name": "finasteride",
   "display": "standalone",
   "background_color": "#FFCCCC",
-  "start_url": "../index.html",
+  "start_url": "/public/finasteride/index.html",
   "icons": [
     {
       "src": "./favicons/android-chrome-192x192.png",
